@@ -76,4 +76,4 @@ typings/
 .fusebox/
 
 # Config file with apiKey
-config.js
+src/config.js
