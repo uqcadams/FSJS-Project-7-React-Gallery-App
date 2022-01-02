@@ -74,3 +74,6 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+# Config file with apiKey
+config.js
